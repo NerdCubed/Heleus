@@ -12,7 +12,7 @@ dill = "^0.3.9"
 raven = "^6.10.0"
 strictyaml = "^1.7.3"
 tabulate = "^0.9.0"
-psutil = "^6.1.0"
+psutil = "^6.1.1"
 disnake = { extras = ["voice"], version = "^2.9.3" }
 coredis = { extras = ["hiredis"], version = "^4.17" }
 
